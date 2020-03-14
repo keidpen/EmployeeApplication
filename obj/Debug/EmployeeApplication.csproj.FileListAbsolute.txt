@@ -1,0 +1,9 @@
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\obj\Debug\EmployeeApplication.csprojAssemblyReference.cache
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\obj\Debug\EmployeeApplication.Form1.resources
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\Kei D. Penaredondo\source\repos\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
